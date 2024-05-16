@@ -1,2 +1,20 @@
 1. Did you know this file is editable and made for you to fill in questions from the AI?
 Yes. I did know that. I have filled in the questions from the AI.
+
+
+1. **Prioritization and Time Management:**
+   - What are your top three priorities right now, both professionally and personally?
+   Priority 1 recorded a video on Genai now I want to deploy it to YouTube and post about it on socials
+   Priority 2 Let people know that we have an AI community to discuss Genai and AI enabled humans
+   Priority 3 Get people to give feedback
+
+2. **Challenges and Obstacles:**
+   - Are there any specific challenges or obstacles you’re currently facing? For example, is your sore shoulder affecting your ability to work out, or are there technical issues with setting up GenAI?
+
+   My sore shoulder is impacting how many pullups I can do. 
+   I need to create a really nice thumbnail for my YouTube video but I'm not a designer
+
+3. **Preferences and Tools:**
+   - Do you have any preferred productivity tools or methods that you currently use or find particularly effective? This could be software, techniques like time-blocking, or anything else.
+
+   I like to block off time in the morning to walk and think and then start to write and work when I get back.
