@@ -30,5 +30,15 @@ const variables = {"fc_name":"1dolinski"};
 
 const { data, error } = await fetchQuery(query, variables);
 
+const warpcastData = data.FarcasterCasts.Cast.map((cast) => {
+    const obj = {
+        castedAtTimestamp: cast.castedAtTimestamp,
+        text: cast.text,
+        numberOfReplies: cast.numberOfReplies,
+        numberofLikes: cast.numberOfLikes,
+        channel: cast.channel && cast.channel.name || '',
+    };
+    return JSON.stringify(obj);
+    }).join("\n");
 
-export default data;
+export default warpcastData;

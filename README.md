@@ -4,6 +4,11 @@
 
 This project is a personal AI co-pilot designed to help users reach their goals with up-to-date memory about you. [See project documentation here](https://vibehut.gitbook.io/genai/)
 
+### YouTube Videos
+
+[Setup](https://www.youtube.com/watch?v=7KuwU8onDuk)
+[Why Genai Is Better Than a Custom GPT: Extending with Personal Data + API Data](https://www.youtube.com/watch?v=7RD9n7OXpKE)
+
 ## Getting Started
 
 To get started with the personal AI co-pilot, follow these steps:
