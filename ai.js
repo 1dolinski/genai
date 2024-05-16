@@ -7,11 +7,14 @@ import { exec } from "child_process";
 import data from "./APIs/airstack.js";
 
 const warpcastData = data.FarcasterCasts.Cast.map((cast) => {
-    return {
+    const obj = {
         castedAtTimestamp: cast.castedAtTimestamp,
         text: cast.text,
+        numberOfReplies: cast.numberOfReplies,
+        numberofLikes: cast.numberOfLikes,
         channel: cast.channel && cast.channel.name || '',
     };
+    return JSON.stringify(obj);
     }).join("\n");
 
 const openai = new OpenAI({
