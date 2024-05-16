@@ -14,8 +14,6 @@ const warpcastData = data.FarcasterCasts.Cast.map((cast) => {
     };
     }).join("\n");
 
-    console.log(warpcastData);
-
 const openai = new OpenAI({
   apiKey: process.env['OPENAI_API_KEY'], 
 });
@@ -71,6 +69,7 @@ async function main() {
     I have a few free hours, please outline what I should do. Please ask 3 questions that would help you help me better.
 
     Recently I've also been posting on Warpcast, a web3 social media platform. Here are some of the posts I've made: ${warpcastData}
+    Give me feedback on my Warpcast posts
 
     I have a set of files to track all the input data about me. Treat the data provided as truth:
     I'll write out my thoughts in a file called daily.txt. Each day will have a header in the format of "*** MMM dd***" where MMM is the month and dd is the day. 
