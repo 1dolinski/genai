@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An in-memory productivity AI that uses up-to-date information on you.",
   "main": "ai.js",
+  "type": "module",
   "scripts": {
     "ai": "node ai.js"
   },

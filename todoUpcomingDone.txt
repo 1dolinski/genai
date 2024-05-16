@@ -3,10 +3,10 @@
 - May 15: Launch Genai
 
 *** ToDo
-- fill in the .env with the OpenAI credential
 - call my Mom and let her know I appreciate her
 
 *** Done
+Fill in the .env with the OpenAI credential
 15 pushups
 4 cups of coffee
 Realize that this file is a good way to keep track of my day
