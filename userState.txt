@@ -1,0 +1,7 @@
+Name: James Stark
+Birthday: June 23, 1591
+Skills and Abilities
+- Kiteboarding
+- Professional Benchwarmer
+
+.. the more detailed the better for you

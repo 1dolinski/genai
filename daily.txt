@@ -1,0 +1,7 @@
+*** May 15
+This was the entry for the next day. It's in the format of *** MMM DD in descending order.
+
+This means your current day notes are always at the top. Write out your thoughts, feedback, and plans for the day.
+
+*** May 14
+This was the first entry.

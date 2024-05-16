@@ -1,0 +1,2 @@
+GenAI
+- a personal AI assistant that is provided context and memory for me
