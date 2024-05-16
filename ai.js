@@ -4,6 +4,10 @@ import OpenAI from 'openai';
 import { promises as fs } from "fs";
 import { exec } from "child_process";
 
+import data from "./APIs/airstack.js";
+
+console.log(data);
+
 const openai = new OpenAI({
   apiKey: process.env['OPENAI_API_KEY'], 
 });
